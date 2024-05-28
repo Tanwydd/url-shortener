@@ -1,6 +1,6 @@
 # URL Shortener Project
 
-Welcome to our URL Shortener Project! This project aims to provide a simple and efficient way to manage and shorten URLs. Whether you're tired of long, unwieldy URLs or you're looking for a convenient way to share links, our URL shortener has got you covered.
+Welcome to my URL Shortener Project! This project aims to provide a simple and efficient way to manage and shorten URLs. Whether you're tired of long, unwieldy URLs or you're looking for a convenient way to share links, this URL shortener has got you covered.
 
 ## Features
 
@@ -30,19 +30,19 @@ To get started with the URL Shortener Project, follow these steps:
    npm install
    
 3. **Set Up Database**:
-
+   
     - Ensure you have MariaDB installed and running.
     - Create a new database for the project and import the provided SQL file (url_shortener_setup.sql) to set up the required tables.
 
-4. **Set Up Environment Variables**:
+5. **Set Up Environment Variables**:
 
     - Rename .env.example to .env and fill in the necessary environment variables, such as database credentials and JWT secret.
   
-5. **Run the Server**:
+6. **Run the Server**:
      ```bash 
    node app.js
 
-6. **Access the Application**:
+7. **Access the Application**:
 Open your web browser and navigate to http://localhost:5000 to access the URL Shortener application.
 
 ## API Endpoints
