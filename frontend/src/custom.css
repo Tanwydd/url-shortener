@@ -1,0 +1,21 @@
+body {
+  background-color: #e0f7fa;
+}
+
+h2 {
+  color: #007bff;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.table thead th {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+.table tbody tr:hover {
+  background-color: #d1ecf1;
+}
